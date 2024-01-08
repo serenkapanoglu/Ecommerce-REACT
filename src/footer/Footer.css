@@ -1,0 +1,22 @@
+.footer{
+    width: 100%;
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.linkler{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.linkler a{
+    color: white;
+    margin:auto 50px;  
+    font-size: 30px;
+
+}
