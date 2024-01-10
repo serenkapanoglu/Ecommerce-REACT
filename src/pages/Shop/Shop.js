@@ -25,7 +25,7 @@ function Shop({ handleChange }) {
 
   return (
     <div>
-      <div className='shopTitle'>JENNY MADE IT <Confetti size={34} /></div>
+      <div className='shopTitle'>JENNY MADE IT! <Confetti size={34} /></div>
       <Category handleChange={handleChange} handleFilter={handleFilter} />
       <div className='products'>
         {filteredProducts.map((product) => (
