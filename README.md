@@ -1,15 +1,21 @@
-# Getting Started with Create React App
+# Jenny Made It - Jewelry Ecommerce Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Jenny Made It](https://jenny-made-it.netlify.app/) is a jewelry ecommerce website built using React. This project allows users to explore and purchase various jewelry items with features such as filtering by metal type, adding items to the cart, and viewing order details.
 
-## Available Scripts
+### Demo
 
-In the project directory, you can run:
+Check out the live demo: [Live Demo](https://jenny-made-it.netlify.app/)
 
-### `npm start`
+### Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- ***Features*** 
+- ***Getting Started***
+- ***Usage***
+- ***Technologies Used***
+- ***Screenshots***
+- ***Contributing***
+- ***License***
+- ***Acknowledgments***
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
