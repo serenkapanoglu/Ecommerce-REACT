@@ -15,6 +15,6 @@ Check out the live demo: [Live Demo](https://jenny-made-it.netlify.app/)
 ##
 
 Filtering
--**Users can filter jewelry items by metal type - Gold, Silver, and Rose.**
+- **Users can filter jewelry items by metal type - Gold, Silver, and Rose.**
 
 
