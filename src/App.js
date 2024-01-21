@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Shop from './pages/Shop/Shop';
@@ -10,6 +10,10 @@ import { PRODUCTS } from './products';
 import ShopContextProvider from './context/ShopContextProvider';
 
 function App() {
+  
+useEffect(() => {
+    document.title = "Jenny Made It"
+  },[]); 
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [query, setQuery] = useState("");
 
