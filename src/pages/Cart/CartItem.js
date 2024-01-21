@@ -7,7 +7,7 @@ function CartItem(props) {
     useContext(ShopContext);
   return (
     <div className='cartItem'>
-      Selam
+     
       {" "}
       <img src={productImage} height="150px" width="150px"/>
       <div className='description'>
