@@ -29,8 +29,16 @@ Check out the live demo: [Live Demo](https://jenny-made-it.netlify.app/)
 - **Users can add items to their shopping cart, view order details, and adjust the quantity of items.**
 <img src="https://github.com/serenkapanoglu/Ecommerce-REACT/blob/main/images/Screen%20Shot%202024-01-10%20at%202.11.24%20AM.png" />
 
+## Item's Detail
+
+- ** Users can see the item's details.
+<img src="https://github.com/serenkapanoglu/Ecommerce-REACT/blob/main/images/Screen%20Shot%202024-01-10%20at%202.11.46%20AM.png" />
+
   ## Total Amount
   
   
 - **The cart section displays the total amount for the selected items.**
 <img src="https://github.com/serenkapanoglu/Ecommerce-REACT/blob/main/images/Screen%20Shot%202024-01-10%20at%202.11.58%20AM.png" />
+<img src="https://github.com/serenkapanoglu/Ecommerce-REACT/blob/main/images/Screen%20Shot%202024-01-10%20at%203.08.25%20PM.png" />
+
+
