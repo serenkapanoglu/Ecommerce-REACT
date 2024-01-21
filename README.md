@@ -1,6 +1,6 @@
 # Jenny Made It - Jewelry Ecommerce Website
 
- [Jenny Made It](https://jenny-made-it.netlify.app/) is a jewelry ecommerce website built using React. This project allows users to explore and purchase various jewelry items with features such as filtering by metal type, adding items to the cart, and viewing order details.
+ [Jenny Made It](https://jenny-made-it.vercel.app/) is a jewelry ecommerce website built using React. This project allows users to explore and purchase various jewelry items with features such as filtering by metal type, adding items to the cart, and viewing order details.
 
 ## 
 
