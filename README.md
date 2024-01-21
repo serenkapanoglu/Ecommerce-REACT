@@ -10,7 +10,8 @@
 Check out the live demo: [Live Demo](https://jenny-made-it.netlify.app/)
 
 ##
-
+  <img src="https://github.com/serenkapanoglu/Ecommerce-REACT/blob/main/images/Screen%20Shot%202024-01-10%20at%202.10.47%20AM.png" />
+  
 ### Features
 
 ##
