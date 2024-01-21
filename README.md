@@ -7,7 +7,7 @@
 ### Demo
  ##
  
-Check out the live demo: [Live Demo](https://jenny-made-it.vercel.app/)
+Check out the live demo: [Live Demo](https://jobfinder-n907.onrender.com/)
 
 ##
   <img src="https://github.com/serenkapanoglu/Ecommerce-REACT/blob/main/images/Screen%20Shot%202024-01-10%20at%202.10.47%20AM.png" />
